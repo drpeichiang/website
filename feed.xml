@@ -3,10 +3,33 @@
     <title>Dr. 江姵璇的牙周諮商室</title>
     <link href="https://drpeichiang.github.io/website/feed.xml" rel="self" />
     <link href="https://drpeichiang.github.io/website" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2026-01-18T21:27:57+08:00</updated>
     <author>
         <name>江姵璇</name>
     </author>
     <id>https://drpeichiang.github.io/website</id>
 
+    <entry>
+        <title>歡迎來到江姵璇醫師的牙周諮商室</title>
+        <author>
+            <name>江姵璇</name>
+        </author>
+        <link href="https://drpeichiang.github.io/website/huan-ying-lai-dao-jiang-pei-xuan-yi-shi-de-ya-zhou-zi-shang-shi.html"/>
+        <id>https://drpeichiang.github.io/website/huan-ying-lai-dao-jiang-pei-xuan-yi-shi-de-ya-zhou-zi-shang-shi.html</id>
+        <media:content url="https://drpeichiang.github.io/website/media/posts/2/Gemini_Generated_Image_unncptunncptunnc.jpg" medium="image" />
+
+        <updated>2026-01-18T20:40:44+08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://drpeichiang.github.io/website/media/posts/2/Gemini_Generated_Image_unncptunncptunnc.jpg" alt="" />
+                    什麼都聊，目標成為每個人都能找到有趣資訊的角落 ☕
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://drpeichiang.github.io/website/media/posts/2/Gemini_Generated_Image_unncptunncptunnc.jpg" class="type:primaryImage" alt="" /></p>
+                <p>什麼都聊，目標成為每個人都能找到有趣資訊的角落 ☕</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
