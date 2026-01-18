@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Dr. 江姵璇的牙周諮商室",
+    "description": "",
+    "home_page_url": "https://drpeichiang.github.io/website",
+    "feed_url": "https://drpeichiang.github.io/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "江姵璇"
+    },
+    "items": [
+    ]
+}
