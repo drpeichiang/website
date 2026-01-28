@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Dr. 江姵璇的牙周諮商室",
+    "title": "江姵璇牙醫師｜牙周諮商室",
     "description": "",
     "home_page_url": "https://drpeichiang.github.io/website",
     "feed_url": "https://drpeichiang.github.io/website/feed.json",
@@ -12,9 +12,9 @@
         {
             "id": "https://drpeichiang.github.io/website/huan-ying-lai-dao-jiang-pei-xuan-yi-shi-de-ya-zhou-zi-shang-shi.html",
             "url": "https://drpeichiang.github.io/website/huan-ying-lai-dao-jiang-pei-xuan-yi-shi-de-ya-zhou-zi-shang-shi.html",
-            "title": "歡迎來到江姵璇醫師的牙周諮商室",
+            "title": "歡迎來到Dr.江姵璇的牙周諮商室",
             "summary": "<p>什麼都聊，目標成為每個人都能找到有趣資訊的角落 ☕</p>\n",
-            "content_html": "<p>什麼都聊，目標成為每個人都能找到有趣資訊的角落 ☕</p>\n\n<p>第一次點進來嗎？歡迎先到『<a href=\"https://drpeichiang.github.io/website/about-me.html\">關於我</a>』頁面認識我喔 🦷</p>",
+            "content_html": "<p>什麼都聊，目標成為每個人都能找到有趣資訊的角落 ☕</p>\n\n<p>第一次點進來嗎？歡迎先到『<a href=\"https://drpeichiang.github.io/website/about-me.html\">關於我</a>』頁面認識我喔 🦷</p>\n<p>想暸解更多關於牙周病的相關知識嗎？<br>歡迎到『<a href=\"https://drpeichiang.github.io/website/ya-zhou-deyi-bai-ge-wei-shi-moji-hua.html\" target=\"_self\">牙周的一百個為什麼</a>』看看自己的疑問有沒有被回答到喔 👀</p>",
             "image": "https://drpeichiang.github.io/website/media/posts/2/Gemini_Generated_Image_unncptunncptunnc.jpg",
             "author": {
                 "name": "江姵璇"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2026-01-18T20:40:44+08:00",
-            "date_modified": "2026-01-28T17:48:31+08:00"
+            "date_modified": "2026-01-28T18:25:04+08:00"
         }
     ]
 }
